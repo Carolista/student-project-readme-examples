@@ -1,4 +1,4 @@
-# Student Project README Resource
+# Student Project README Guide
 
 <!-- TODO: Add section on images and update outline -->
 <!-- TODO: Add section on HTML vs markdown and update outline -->
